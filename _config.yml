@@ -3,13 +3,17 @@ description:      Random thoughts on some DevOps fun I have had.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 # url:              http://localhost:4000
 url:              http://localhost/dmc7337
+# url:              http://dmc7337.github.io
 disqus_shortname: dmc7337
 
 # Owner/author information
 owner:
   name:           David McCormack
   avatar:         bio-photo.jpg
-  bio:            "Melbourne based more Dev than Ops techo."
+  bio:            "My name is David McCormack and my username on most of my online sites is dmc7337.
+                   No good reason for this choice except that it was available on most sites.
+                   I have worked as an IT consultant in finacial services for a number of years and
+                   am currently concentrating on DevOps in large enterprises."
   email:          dmc@7337.io
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: dmc7337
@@ -41,7 +45,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Australia/Melbourne
 future:      true
-pygments:    true
+# pygments:    true
 highlighter: pygments
 markdown:    kramdown
 
